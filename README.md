@@ -11,6 +11,7 @@ I have run the cookbook using the below prerequisites:
   - Foodcritic v16.2.0
   - Cookstyle v5.20.0
 - AWS account
+- Git v2.24.1
 
 ## Packer
 Packer is a tool used to create machine images using your choice of configuration management tools (a provisioner such as Chef) and/or cloud provider (a builder such as Amazon EC2). These machine images will have a pre-configured operating system and already installed software which can be used to make machines instantly.
