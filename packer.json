@@ -30,7 +30,7 @@
     },
     "instance_type": "t2.micro",
     "ssh_username": "ubuntu",
-    "ami_name": "kevin-mongo-devenv-{{timestamp}}"
+    "ami_name": "node-devenv-{{timestamp}}"
     }],
     "provisioners": [
       {
